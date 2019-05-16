@@ -14,6 +14,7 @@
     <module>spring-cloud-consul-consumer</module>
     <module>spring-cloud-eureka-server</module>
     <module>spring-cloud-eureka-server2</module>
+    <module>spring-cloud-eureka-provider</module>
   </modules>
 
   <name>clouddemo</name>
