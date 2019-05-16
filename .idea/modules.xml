@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-producer2/spring-cloud-consul-producer2.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-producer2/spring-cloud-consul-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer/springcloudeurekaconsumer.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer/springcloudeurekaconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider/springcloudeurekaprovider.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider/springcloudeurekaprovider.iml" />
     </modules>
   </component>

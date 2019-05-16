@@ -11,6 +11,8 @@
         <module name="spring-cloud-consul-producer2" />
         <module name="spring-cloud-eureka-server" />
         <module name="spring-cloud-eureka-server2" />
+        <module name="springcloudeurekaconsumer" />
+        <module name="springcloudeurekaprovider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +22,8 @@
       <module name="spring-cloud-consul-producer2" target="1.8" />
       <module name="spring-cloud-eureka-server" target="1.8" />
       <module name="spring-cloud-eureka-server2" target="1.8" />
+      <module name="springcloudeurekaconsumer" target="1.8" />
+      <module name="springcloudeurekaprovider" target="1.8" />
       <module name="springcloudeurekaservcer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -30,6 +34,8 @@
       <module name="spring-cloud-consul-producer2" options="-parameters" />
       <module name="spring-cloud-eureka-server" options="-parameters" />
       <module name="spring-cloud-eureka-server2" options="-parameters" />
+      <module name="springcloudeurekaconsumer" options="-parameters" />
+      <module name="springcloudeurekaprovider" options="-parameters" />
       <module name="springcloudeurekaservcer" options="-parameters" />
     </option>
   </component>
