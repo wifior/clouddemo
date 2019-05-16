@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clouddemo.iml" filepath="$PROJECT_DIR$/clouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-consumer/spring-cloud-consul-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-producer/spring-cloud-consul-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-producer/spring-cloud-consul-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-producer2/spring-cloud-consul-producer2.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-producer2/spring-cloud-consul-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" />
+    </modules>
+  </component>
+</project>

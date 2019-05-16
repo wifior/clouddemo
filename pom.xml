@@ -12,6 +12,8 @@
     <module>spring-cloud-consul-producer</module>
     <module>spring-cloud-consul-producer2</module>
     <module>spring-cloud-consul-consumer</module>
+    <module>spring-cloud-eureka-server</module>
+    <module>spring-cloud-eureka-server2</module>
   </modules>
 
   <name>clouddemo</name>
