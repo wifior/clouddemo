@@ -1,8 +1,8 @@
 spring:
   application:
-    name: spring-cloud-consumer
+    name: spring-cloud-provider
 server:
-  port: 7005
+  port: 9005
 eureka:
   client:
     service-url:

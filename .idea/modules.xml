@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-server2/spring-cloud-eureka-server2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-consumer/springcloudeurekaconsumer.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-consumer/springcloudeurekaconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider/springcloudeurekaprovider.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider/springcloudeurekaprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-provider2/springcloudeurekaprovider2.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-provider2/springcloudeurekaprovider2.iml" />
     </modules>
   </component>
 </project>

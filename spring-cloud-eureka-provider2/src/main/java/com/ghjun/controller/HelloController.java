@@ -10,7 +10,7 @@ public class HelloController {
     @RequestMapping("/hello")
     public String index(@RequestParam String name){
 
-        return "Hello" +name +",this is first message";
+        return "Hello" +name +",this is two message";
 
     }
 }
